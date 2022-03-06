@@ -1,2 +1,4 @@
 # Part-B-
-SOme computations for my Part B exam
+Some computations for my Part B exam.
+
+Trying to understand space groups...
